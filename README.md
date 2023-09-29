@@ -1,2 +1,3 @@
 # CPTS101
-Assignment for computer science class to create a GitHub repository.
+Name: Eli Lawrence
+E-mail: eli.lawrence@wsu.edu
